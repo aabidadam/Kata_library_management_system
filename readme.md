@@ -18,3 +18,5 @@ A simple library management system that allows users to add, borrow, return, and
    ```bash
    git clone https://github.com/your-username/library-management-system.git
    cd library-management-system
+   python3 main.py
+
